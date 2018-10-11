@@ -12,7 +12,7 @@ We intend to build an app to provide these services.
 - Volunteers can share supplies they have to the app as well as be verified professionals (if they are).
 - If internet connectivity is available, data (volunteer and victim location) will be uploaded to a common server. This data can be shared with authorities for disaster management.
 - The app can also get data from the server such as alerts from authorities, suggested precautions, etc.
-- Users can also ask communicate using a messaging feature in the app.
+- Users can also communicate using a messaging service in the app.
 
 ### Access:
 - The application can be dowloaded from the app store.
